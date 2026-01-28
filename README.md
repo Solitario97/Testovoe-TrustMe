@@ -1,2 +1,16 @@
-# Testovoe-TrustMe
-Test assignment for TrustMe This repository contains a test assignment developed as part of the technical evaluation process for the TrustMe company. The project demonstrates problem-solving approach, code structure, and implementation quality according to the provided requirements.
+# Real Estate Filters (Vue 3)
+
+Простая страница поиска квартир в Астане с фильтрами:
+- Площадь (от/до)
+- Кол-во комнат (от/до)
+- Адрес (поиск по строке)
+
+Данные берутся из локального файла `src/data/listings.json`.
+
+## Tech
+- Vue 3 + Vite + TypeScript
+
+## Запуск локально
+```bash
+npm i
+npm run dev
